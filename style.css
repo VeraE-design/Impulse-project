@@ -1,0 +1,24 @@
+header{
+    background-image: url(lifestyle.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.section4 div{
+    position: relative;
+
+}
+.section4 div p {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.section5{
+    background-image: url(https://images.unsplash.com/photo-1503516459261-40c66117780a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1949&q=80);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    object-fit: cover;
+}
